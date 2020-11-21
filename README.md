@@ -164,6 +164,29 @@
 - [Travel Guide](https://github.com/Ivaskuu/travel-guide_app) - Travel guide app by [Ivascu Adrian](https://github.com/Ivaskuu/).
 - [ShareACab](https://github.com/devclub-iitd/ShareACab) - Cab Sharing App for college students by [DevClub IIT Delhi](https://github.com/devclub-iitd/).
 
+# My Private Collected app Links 
+Collection Of Reusable UIs
+
+Login Page UI
+
+1. [Welcome Signup Page Flutter UI](https://github.com/AryanKuAg/welcome_signup_page_flutter_ui)
+
+App UIs
+
+1. [Flutter Projects](https://github.com/AryanKuAg/flutter_projects)<br />
+   -Instagram Redesign App<br />
+   -Social App Photographers<br />
+   -My Medical Appointment<br />
+   -FindOut<br />
+   -Movie Selections<br />
+   -Music App Concept<br />
+   -Music App Two<br />
+   
+2. [Best Flutter UI Templates](https://github.com/AryanKuAg/best_flutter_ui_templates)<br />
+   -Hotel Booking App<br />
+   -Fitness App<br />
+   -Design Course App<br />
+
 ## License
 
 > *This repository is inspired from [Open source ios apps](https://github.com/dkhamsing/open-source-ios-apps "Open source ios apps") and [Open source android apps](https://github.com/pcqpcq/open-source-android-apps)* 
